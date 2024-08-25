@@ -1,0 +1,13 @@
+.response-data {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.response-item {
+  margin-bottom: 10px;
+}
+
+strong {
+  display: inline-block;
+  width: 150px;
+}
